@@ -1,2 +1,2 @@
 # to-do-app
-To-do App Using Meteor
+A CRUD To-do Application written in meteorJS
